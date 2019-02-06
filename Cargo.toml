@@ -1,0 +1,10 @@
+[package]
+name = "bwt"
+version = "0.1.0"
+authors = ["flare"]
+
+[dependencies.sais]
+git = "https://github.com/izflare/sais.git"
+
+[dependencies]
+clap = "2.20.3"
