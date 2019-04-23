@@ -15,7 +15,7 @@ git clone https://github.com/izflare/bwt.git
 
 ### Compile
 
-This code has been tested under linux compiling with rust (cargo) ver 1.32.0
+This code has been tested under linux compiling with rust (cargo) ver 1.32.0  
 After download the repository, 
 
 ```
@@ -35,6 +35,6 @@ cd target/release
 then the tool run.  
 `<input>` is your input text data file.
 Elapsed time for running will be displayed, and converted text file will be outputted as `<input>.bwt`.
-If you want to get the original source text from `.bwt` file, set '-r' flag
+If you want to get the original source text from `.bwt` file, set `-r` flag
 (`<input>.rev` file will be outputted).
 
