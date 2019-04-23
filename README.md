@@ -19,7 +19,7 @@ This code has been tested under linux compiling with rust (cargo) ver 1.32.0
 After download the repository, 
 
 ```
-cd bwt
+cd BWT
 cargo build --release
 ```
 
