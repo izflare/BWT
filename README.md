@@ -10,7 +10,7 @@ This implementation uses SA-IS as suffix array construction algorithm (see https
 To clone the repository, call
 
 ```
-git clone https://github.com/izflare/bwt.git
+git clone https://github.com/izflare/BWT.git
 ```
 
 ### Compile
